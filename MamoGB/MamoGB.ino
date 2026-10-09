@@ -55,7 +55,7 @@
 // Configuration
 // ----------------------------------------------------------------------------
 static const char* AP_SSID = "MamoGB-Stream";
-static const char* AP_PASS = "MamoGB";
+static const char* AP_PASS = "MamoGB-Stream";
 
 // Cardputer microSD pins
 #define SD_SCK  40
