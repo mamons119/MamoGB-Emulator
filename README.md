@@ -1,4 +1,4 @@
-# 🎮 MamoGB emulator
+# 🎮 MamoGB emulator per CardPuter
 
 Emulatore **Game Boy (DMG)** per **M5Stack Cardputer** (ESP32-S3), con **streaming dello schermo nel browser**.
 
