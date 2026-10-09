@@ -62,7 +62,7 @@ Nel menu: su/giù scorrono la lista, sinistra/destra saltano di una pagina, **A*
 
 ### 🌐 Dal browser
 
-1. Collegati al Wi-Fi creato dal Cardputer: SSID `PocketStream`, password `cardputer`
+1. Collegati al Wi-Fi creato dal Cardputer: SSID `MamoGB-Stream`, password `MamoGB-Stream`
 2. Apri `http://192.168.4.1` (l'indirizzo è scritto anche in fondo al menu)
 3. Usa i pulsanti a schermo o la tastiera: frecce/WASD, `J` = A, `K` = B, `Enter` = START, `Backspace` = SELECT, `Esc` = menu, `P` = palette
 
