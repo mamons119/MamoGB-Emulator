@@ -1,0 +1,17 @@
+# Arduino / build
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# ROM e salvataggi: non vanno pubblicati
+*.gb
+*.gbc
+*.sav
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
