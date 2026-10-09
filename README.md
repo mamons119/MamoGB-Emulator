@@ -91,7 +91,7 @@ Per vedere la seriale in Arduino IDE imposta *Strumenti → USB CDC On Boot → 
 
 ## 📀 ROM
 
-Questo repository **non contiene ROM**. Usa giochi di cui possiedi la cartuccia originale oppure homebrew distribuiti legalmente, ad esempio da [Homebrew Hub](https://hh.gbdev.io).
+Questo repository **non contiene ROM**. Vanno scaricati ed inseriti nella microSD (/roms)
 
 ## 🙏 Crediti e licenze
 
